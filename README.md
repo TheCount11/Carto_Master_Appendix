@@ -21,7 +21,7 @@ None of the original data, from which the files above were obtained has been sha
   
 ### Also See
 
-  * [The EU MIgration Crisis on Twitter](https://share.streamlit.io/thecount11/thesis_dashboard_1/eva_feedback/main.py)
+  * [The EU Migration Crisis on Twitter](https://share.streamlit.io/thecount11/thesis_dashboard_1/eva_feedback/main.py)
   * [Github Repository for The EU Migration Crisis on Twitter](https://github.com/TheCount11/Thesis_dashboard)
   
   
